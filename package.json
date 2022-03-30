@@ -1,0 +1,21 @@
+{
+  "name": "organizedjson",
+  "version": "1.0.0",
+  "description": "A simple program that organizes CSV data into JSON.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "Organize",
+    "CSV",
+    "JSON"
+  ],
+  "type": "module",
+  "author": "Caio Pessoa",
+  "license": "ISC",
+  "dependencies": {
+    "neat-csv": "^7.0.0"
+  }
+}
