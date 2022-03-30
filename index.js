@@ -1,6 +1,4 @@
-// import neatCsv from 'neat-csv';
 import fs from 'fs'
-import { join } from 'path'
 
 const filePath = './input.csv'
 const encoding = 'utf-8'
